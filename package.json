@@ -1,0 +1,27 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "npm practice",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weihaolai/homework_content.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weihaolai/homework_content/issues"
+  },
+  "homepage": "https://github.com/weihaolai/homework_content#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "sharp": "^0.31.3"
+  }
+}
